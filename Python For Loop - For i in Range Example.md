@@ -33,7 +33,7 @@ for i in [1, 3, 5, 7, 9]:
 ```
 
 إذا كانت قيم المصفوفة (array) مُتتابِعة (sequential)، يُمكِننا استخدام دالة `range()` الخاصة بِبايثون بدلًا مِن كِتابة مُحتوى المصفوفة (array) كاملًا.
-## The Range function in Python
+## دالّة range() في بايثون
 تُتيح دالة `range()` تتابُعًا مِن الأعداد الصحيحة (integers) بُناءً على مُدخَلات الدالة (function's arguments). يُمكِن العثور على معلومات إضافيّة عن دالة `range()` في [توثيق بايثون (Python's documentation)](https://docs.python.org/3/library/stdtypes.html#range).
 
 ```python
